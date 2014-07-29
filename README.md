@@ -5,6 +5,7 @@ A shell script to control Music Players using MPRIS &amp; dbus
 
 #### Running dmc.sh
 dmc.sh [-d] [-h] [-p player name] command
+
 	-h : Display the help message
 	-d : Display debug messages.
 	-p : Name of the media player that need to be controlled.
@@ -32,3 +33,7 @@ vlc --control dbus
 
 #### Music Player Daemon (MPD)
 MPRIS support for MPD need to be enabled using the mpDris2 package. Please refer https://github.com/eonpatapon/mpDris2 for installation and configuration information.
+
+
+#### Clementine & Amarok
+No special setup required.
