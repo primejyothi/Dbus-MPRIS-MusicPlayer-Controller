@@ -1,6 +1,7 @@
 #! /usr/bin/env bash
 
 # Control MPRIS supported music players from command line using qdbus.
+# License : GPLv3
 # Prime Jyothi 20140728 primejyothi [at] gmail [dot] com
 
 
