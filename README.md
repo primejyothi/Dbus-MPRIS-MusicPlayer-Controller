@@ -21,9 +21,8 @@ org.mpris.MediaPlayer2.amarok
 org.mpris.MediaPlayer2.clementine
 org.mpris.MediaPlayer2.mpd
 org.mpris.MediaPlayer2.vlc
-
 ````
-In the above result, the available player names are amarok, clrementine, mpd * vlc.
+In the above result, the available player names are amarok, clementine, mpd &amp; vlc.
 
 #### VLC Player
 VLC player need to be started with MPRIS support. Launch vlc as follows:
@@ -31,3 +30,5 @@ VLC player need to be started with MPRIS support. Launch vlc as follows:
 vlc --control dbus
 ````
 
+#### Music Player Daemon (MPD)
+MPRIS support for MPD need to be enabled using the mpDris2 package. Please refer https://github.com/eonpatapon/mpDris2 for installation and configuration information.
