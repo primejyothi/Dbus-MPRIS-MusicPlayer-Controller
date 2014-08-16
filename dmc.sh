@@ -121,6 +121,10 @@ case $cmd in
 		action="org.mpris.MediaPlayer2.Player.Play"
 		;;
 
+	"playPause" )
+		action="org.mpris.MediaPlayer2.Player.PlayPause"
+		;;
+
 	"pause" )
 		action="org.mpris.MediaPlayer2.Player.Pause"
 		;;

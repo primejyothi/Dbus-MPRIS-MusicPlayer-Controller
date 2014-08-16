@@ -10,7 +10,7 @@
 players="amarok clementine mpd vlc"
 
 # Keep "stop" at the end to prevent multiple players palaying together.
-actions="play pause next previous stop"
+actions="play pause playPause playPause next previous stop"
 
 # Execute actions for all players.
 
