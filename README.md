@@ -9,7 +9,7 @@ dmc.sh [-d] [-h] [-p player name] command
 	-h : Display the help message
 	-d : Display debug messages.
 	-p : Name of the media player that need to be controlled.
-	Commands : play, pause, stop, next & previous
+	Commands : play, pause, playPause, stop, next & previous(prev)
 
 #### Finding the player name
 Use the following command to identify the name of the player.

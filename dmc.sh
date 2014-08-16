@@ -14,7 +14,7 @@ function help ()
 	echo -e "\t -d : Enable debug messages"
 	echo -e "\t -h : Display this help message"
 	echo -e "\t -p : Player name"
-	echo -e "\t\tSupported commands are play, pause, stop, next & previous"
+	echo -e "\t\tSupported commands are play, pause, playPause, stop, next & previous(prev)"
 	exit 1
 }
 
