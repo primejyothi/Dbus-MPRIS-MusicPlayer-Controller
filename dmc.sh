@@ -133,7 +133,7 @@ case $cmd in
 		action="org.mpris.MediaPlayer2.Player.Next"
 		;;
 
-	"previous" )
+	"previous" | "prev" )
 		action="org.mpris.MediaPlayer2.Player.Previous"
 		;;
 
